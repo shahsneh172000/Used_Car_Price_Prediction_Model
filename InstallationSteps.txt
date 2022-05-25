@@ -1,0 +1,13 @@
+Step 1: Install JupyterNotebook and VS Code in your System
+
+Step 2: Install reqired python libraries like sklearn,streamlit etc...
+		Command : pip install lib_name
+		
+Step 3: Open main_app.py
+
+Step 4: Run below command in vs code terminal
+		Command : streamlit run main_app.py
+		
+Step 5: Enter the car details when webpage is opened
+
+Step 6: Submit form to know car price

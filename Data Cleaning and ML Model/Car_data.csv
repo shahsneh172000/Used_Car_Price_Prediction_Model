@@ -1,0 +1,74 @@
+Car,Seats,Mileage_int,Engine_int,Power_int
+Maruti Swift,5.0,22.0,1248.0,74.0
+Honda City,5.0,17.4,1497.0,117.3
+Hyundai i20,5.0,18.6,1197.0,81.83
+Hyundai Verna,5.0,18.1,1582.0,121.35
+Toyota Innova,7.0,12.8,2494.0,102.0
+Hyundai i10,5.0,20.36,1197.0,78.9
+Hyundai Grand,5.0,18.9,1197.0,81.86
+Volkswagen Polo,5.0,17.21,1199.0,73.9
+Maruti WagonR,5.0,20.51,998.0,67.04
+Maruti Alto,5.0,22.74,796.0,47.3
+Mahindra XUV500,7.0,16.0,2179.0,140.0
+Volkswagen Vento,5.0,20.34,1598.0,103.6
+Honda Amaze,5.0,25.8,1498.0,98.6
+Toyota Fortuner,7.0,12.55,2982.0,169.0
+Ford Figo,5.0,20.0,1399.0,68.05
+BMW 3 Series,5.0,18.88,1995.0,184.0
+Mercedes-Benz New C-Class,5.0,14.84,2143.0,170.0
+Hyundai Creta,5.0,17.01,1582.0,126.2
+Mercedes-Benz E-Class,5.0,13.0,2143.0,203.0
+Renault Duster,5.0,19.6,1461.0,108.45
+Audi A4,5.0,16.55,1968.0,163.2
+Maruti Ertiga,7.0,20.77,1248.0,88.76
+Maruti Ciaz,5.0,26.21,1248.0,88.5
+Hyundai Santro,5.0,17.48,1086.0,62.3
+Toyota Corolla,5.0,14.53,1798.0,138.03
+Maruti Ritz,5.0,21.1,1248.0,73.94
+BMW 5 Series,5.0,18.12,1995.0,190.0
+Maruti Baleno,5.0,21.4,1197.0,83.1
+Honda Brio,5.0,19.4,1198.0,86.8
+Hyundai EON,5.0,21.1,814.0,55.2
+Mahindra Scorpio,8.0,12.05,2179.0,120.0
+Toyota Etios,5.0,23.59,1364.0,76.91
+Hyundai Xcent,5.0,24.4,1197.0,81.86
+Maruti Celerio,5.0,23.1,998.0,67.04
+Honda Jazz,5.0,18.7,1199.0,88.7
+Ford Ecosport,5.0,22.7,1498.0,89.84
+Audi A6,5.0,17.68,1968.0,174.33
+Skoda Superb,5.0,13.7,1798.0,157.75
+Skoda Rapid,5.0,20.5,1598.0,103.52
+Chevrolet Beat,5.0,18.6,1199.0,76.8
+Maruti Vitara,5.0,24.3,1248.0,88.5
+Ford EcoSport,5.0,20.825,1498.0,104.68
+Ford Fiesta,5.0,17.8,1399.0,68.0
+Renault KWID,5.0,25.17,799.0,53.3
+Tata Indica,5.0,19.25,1396.0,69.0
+Audi Q7,7.0,12.07,2967.0,241.4
+Maruti SX4,5.0,16.51,1586.0,103.3
+Ford Endeavour,7.0,11.4,2953.0,158.0
+Nissan Micra,5.0,19.69,1198.0,67.04
+Honda Civic,5.0,13.5,1799.0,130.0
+BMW X1,5.0,17.05,1995.0,184.0
+Tata Indigo,5.0,17.0,1396.0,69.01
+Skoda Octavia,5.0,18.7,1896.0,141.0
+Audi Q5,5.0,14.16,1968.0,174.3
+Maruti Zen,5.0,18.2,998.0,64.0
+Skoda Laura,5.0,17.5,1896.0,108.5
+Land Rover Range Rover,5.0,12.7,2179.0,187.7
+Audi Q3,5.0,15.73,1968.0,174.33
+Honda CR-V,5.0,11.1,2354.0,152.0
+Honda Accord,5.0,11.7,2354.0,177.6
+Nissan Terrano,5.0,19.01,1461.0,108.5
+Nissan Sunny,5.0,21.64,1461.0,84.8
+Tata Nano,4.0,25.4,624.0,37.48
+Volkswagen Jetta,5.0,16.96,1968.0,138.03
+Maruti Dzire,5.0,28.4,1248.0,73.75
+BMW X5,5.0,15.3,2993.0,258.0
+Mercedes-Benz M-Class,5.0,13.0,2987.0,203.2
+Hyundai Elantra,5.0,22.619999999999997,1582.0,126.24
+Tata Zest,5.0,17.57,1193.0,88.7
+Maruti Omni,5.0,16.8,796.0,35.0
+Mahindra Xylo,7.0,14.0,2498.0,112.0
+Tata New Safari,7.0,13.93,2179.0,138.0
+Maruti Grand,5.0,10.4,2393.0,163.5

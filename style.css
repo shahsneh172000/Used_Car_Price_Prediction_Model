@@ -1,0 +1,30 @@
+/* form */
+div.css-1p05t8e.epcbefy1{
+    opacity: 1;
+    background-color: #221f1f;
+    border-radius: 10px;
+    border-color: rgb(3, 3, 3);
+    opacity: 0.9;
+}
+
+
+/* button */
+button.css-1q8dd3e.edgvbvh5{
+    width: 675px;
+}
+
+
+/* label */
+label.css-16huue1.effi0qh3{
+    font-size: larger;
+    font-weight:bolder;
+    color: white;
+}
+
+
+/* for estimeted price */
+p{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
